@@ -8,5 +8,3 @@ aaa
 ¤·¤·¤·
 
 nice~
-
-sang check
