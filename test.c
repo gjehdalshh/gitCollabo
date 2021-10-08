@@ -14,3 +14,4 @@ check
 aaa
 
 push check
+conflict
